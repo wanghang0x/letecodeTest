@@ -10,6 +10,7 @@ public class Test2944 {
 //
 //    请你返回获得所有水果所需要的 最少 金币数。
 
+//    一看就是动态规划
     public int minimumCoins(int[] prices) {
 
         int len = prices.length;
